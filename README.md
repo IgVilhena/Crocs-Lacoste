@@ -14,7 +14,7 @@ NumPy – operações matemáticas e estatísticas
 
 Matplotlib / Seaborn – geração de gráficos
 
-Plotly / Dash (ou Streamlit) – dashboard interativo
+Plotly / Dash - Dashboard interativo
 
 📑Objetivos
 
